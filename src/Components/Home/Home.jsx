@@ -1,6 +1,5 @@
 import React from 'react'
 import Feed from '../Feed/Feed'
-import Loading from '../Help/Loading'
 
 const Home = (props) => {
   return (
